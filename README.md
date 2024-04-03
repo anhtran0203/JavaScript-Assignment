@@ -1,5 +1,6 @@
 # JavaScript-Assignment
 The file data.csv  is a survey response file. 
+
 Step 1: Preprocessing data: 
 1. Remove duplicates.
 2. Remove empty lines.
