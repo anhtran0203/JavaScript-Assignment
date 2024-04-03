@@ -1,0 +1,82 @@
+{
+    "subjects": [
+        {
+            "id": 1,
+            "name": "Mathematics & Statistics"
+        },
+        {
+            "id": 2,
+            "name": "Science (Chemistry & Biology)"
+        },
+        {
+            "id": 3,
+            "name": "English Language & Literature"
+        },
+        {
+            "id": 4,
+            "name": "History: Ancient & Modern"
+        },
+        {
+            "id": 5,
+            "name": "Art - Visual/Performing Arts"
+        },
+        {
+            "id": 6,
+            "name": "Physics (Mechanics & Electricity)"
+        },
+        {
+            "id": 7,
+            "name": "Computer Science/Programming"
+        },
+        {
+            "id": 8,
+            "name": "Music (Instrumental, Vocal)"
+        },
+        {
+            "id": 9,
+            "name": "Physical Education (Sports & Fitness)"
+        },
+        {
+            "id": 10,
+            "name": "Geography & Environmental Studies"
+        }
+    ],
+    "club": [
+        {
+            "id": 1,
+            "name": "Chess Club"
+        },
+        {
+            "id": 2,
+            "name": "Football"
+        },
+        {
+            "id": 3,
+            "name": "Basketball"
+        },
+        {
+            "id": 4,
+            "name": "Debate Club"
+        },
+        {
+            "id": 5,
+            "name": "Programming Club"
+        },
+        {
+            "id": 6,
+            "name": "Band"
+        },
+        {
+            "id": 7,
+            "name": "Soccer"
+        },
+        {
+            "id": 8,
+            "name": "Computer Science Club"
+        },
+        {
+            "id": 9,
+            "name": "Geography Club"
+        }
+    ]
+}

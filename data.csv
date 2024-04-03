@@ -1,0 +1,41 @@
+Student ID,Gender,Age,Grade,"What is your favorite subject?",What is your extracurricular activities?,How many hours of study per week?,Overall Satisfaction, TimesStamp
+1,Female,18,12,"Mathematics & Statistics",Basketball,"Around 10",,2021-03-01T00:00:00Z
+2,Male,17,11,"Science (Chemistry & Biology)",Football,12,5,2022-03-01T00:00:00Z
+3,Female,16,10,"English Language & Literature",,8,3,2023-03-02T09:59:00Z
+4,Male,17,11,"History: Ancient & Modern",Chess Club,"3",4,2022-03-01T00:00:00Z
+5,Non-Binary,16,10,"Art - Visual/Performing Arts",,7,4,2024-03-01T00:00:00Z
+6,Female,18,12,"Physics (Mechanics & Electricity)",Debate Club,11,,2022-03-02T10:10:10Z
+7,Male,17,11,"Computer Science\Programming",Programming Club,13,4,2021-03-03T01:01:20Z
+8,Male,16,10,"Music (Instrumental - Vocal)",Band,6,3,2021-03-02T02:20:00Z
+9,Female,17,11,"Physical Education (Sports & Fitness)",Soccer,8,4,2021-03-01T10:00:00Z
+8,Male,16,10,"Music (Instrumental)",Band,6,3,2021-03-06T02:00:00Z
+9,Female,17,11,"Physical Education (Sports & Fitness)",Soccer,8,4,2021-03-01T00:00:00Z
+
+/////////
+
+10,Male,16,10,"Geography & Environmental Studies",Environmental Club,7,4,2021-03-10T00:00:00Z
+11,Male,16,10,"Geography & Environmental","",7,2,2021-09-01T01:00:00Z
+12,Male,15,10,"Geography & Environmental Studies","",7,4,2021-03-01T10:00:00Z
+12,Male,16,10,"Music (Instrumental, Vocal)",Programming Club,8,4,2021-03-02T10:00:00Z
+10,MalE,16,10,"Geography & EnviRonmental Studies",Environmental,7,4,2021-03-01T00:00:00Z
+11,Male,16,10,"Geography & EnvironMental","",7,2,2021-03-01T00:00:00Z
+
+10,Male,16,10,"Geography & Environmental Studies",Environmental,7,4,2021-03-01T00:00:00Z
+
+13,Male,17,11,"History: Ancient",Chess,"10",4,2021-03-01T00:00:00Z
+14,Female,18,12,"PE",Chess,"10",4,2021-03-01T00:00:00Z
+15,FemaLe,17,11,,Chess,"10",4,2021-03-01T00:00:00Z
+16,Female,17,11,"Maths",Dance,"10",4,2021-03-01T00:00:00Z
+17,male,17,12,,,14,4,2021-03-01T03:00:00Z
+18,male,18,12,"I don't know",,,,2021-03-01T03:00:00Z
+19,male,18,12,"Knitting",,,,2021-03-01T03:00:00Z
+20,male,18,12,"Engineering (3D Models)",,,,2021-03-01T03:00:00Z
+
+
+
+
+
+
+
+
+
