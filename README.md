@@ -1,5 +1,6 @@
 # JavaScript-Assignment
-The file data.csv  is a survey response file. 
+File data.csv is a survey response. 
+File subject_club.json contains information about subjects and club. 
 
 Step 1: Preprocessing data: 
 1. Remove duplicates.
